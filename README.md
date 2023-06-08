@@ -5,4 +5,8 @@ hopefully you can use this information as a reminder to take a break!
 
 I made it for myself and it works for me, feel free to use it or change things if you want
 
-![](/readmeimages/messagepreview.png)
+
+
+# Screenshots
+Hours : Minutes : Seconds
+![](/.github/images/Stardew%20Mod%20Break%20Reminder%20Preview.png)
